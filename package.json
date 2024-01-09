@@ -1,0 +1,27 @@
+{
+  "name": "NightChill",
+  "displayName": "NightChill",
+  "description": "VS code theme extension",
+  "version": "0.0.1",
+  "publisher": "MohammedSiddiq",
+  "repository": {
+  
+        "url": "https://github.com/MohdSiddiq12/NightChill"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": ["Theme", "theme", "vs code theme", "blue", "blue theme", "NightChill", "Night", "chill"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NightChill",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NightChill-color-theme.json"
+      }
+    ]
+  }
+}
