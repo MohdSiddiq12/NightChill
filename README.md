@@ -13,7 +13,7 @@
 3. Select NightChill from the available themes.
 
 ## Rate Five Stars
-If you enjoy NightChill, please consider giving it a five-star rating! 😃 haha
+If you enjoy NightChill, please consider giving it a five-star rating! 😃 
 
 ## Issues & Suggestions
 For any issues or suggestions, please use GitHub issues [here](https://github.com/MohdSiddiq12/NightChill/issues).
