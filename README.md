@@ -5,7 +5,7 @@
 2. Open the extensions sidebar on Visual Studio Code.
 3. Search for "NightChill Theme."
 4. Click Install.
-5. Click Reload to reload your editor.
+5. Click Reload to reload your editor
 
 ## Usage
 1. Select the Manage Cog (bottom left).
